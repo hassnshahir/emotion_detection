@@ -27,8 +27,8 @@ Install the required dependencies by running the following command:
 
 
 Prepare the training and testing data:
-Create two separate directories: training and test.
-[Already DONE with the FER 2013 Dataset] Organize your facial expression images into subdirectories inside training and test, with each subdirectory representing a specific emotion class. The images should be in grayscale and resized to 48x48 pixels.
+Create two separate directories: training and test. 
+[Already DONE with the FER 2013 Dataset, you just have to download it from this link: https://www.kaggle.com/datasets/msambare/fer2013] Organize your facial expression images into subdirectories inside training and test, with each subdirectory representing a specific emotion class. The images should be in grayscale and resized to 48x48 pixels.
 Ensure the image filenames in each subdirectory are unique.
 
 
