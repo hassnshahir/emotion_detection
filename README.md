@@ -11,12 +11,7 @@ Requirements
 
 
 To run the project, make sure you have the following dependencies installed:
-Python 3.x
-TensorFlow
-OpenCV (cv2)
-Matplotlib
-Numpy
-Keras
+Python 3.x, TensorFlow, OpenCV (cv2), Matplotlib, Numpy, and Keras
 
 
 Usage
